@@ -7,4 +7,4 @@ class Solution:
                 return [hashmap[complement], i]   
             else:
                 hashmap[num] = i
-        return none
+        return None
